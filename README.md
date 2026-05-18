@@ -91,8 +91,9 @@ También se reforzó la importancia de presentar los resultados de forma clara m
 ---
 
 ## Contacto
-- https://www.linkedin.com/in/jose-manuel-reyes-infante-8a3a91331/
-- Correo: jose1496@live.com.mx
+- **Linkedin:** [José Manuel Reyes Infante](https://www.linkedin.com/in/jose-manuel-reyes-infante-8a3a91331/)
+- **Github:** [JoseReyesI](https://github.com/JoseReyesI)
+- **Correo:** jose1496@live.com.mx 
 
 - LinkedIn: Pendiente de agregar
 - GitHub: https://github.com/JoseReyesI
