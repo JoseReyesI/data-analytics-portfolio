@@ -90,11 +90,94 @@ También se reforzó la importancia de presentar los resultados de forma clara m
 
 ---
 
+### Proyecto 2: Resumen Ejecutivo de Ventas Walmart
+
+#### Contexto del proyecto
+
+Este proyecto simuló el trabajo de un analista de datos en Walmart, donde la Dirección Comercial necesitaba un resumen ejecutivo para tomar decisiones relacionadas con presupuesto, inventario y desempeño comercial.
+
+El análisis se enfocó en datos de ventas semanales de 2012, considerando información de tiendas, departamentos, ventas semanales, fechas, feriados, tipo de tienda y tamaño de tienda. El objetivo fue transformar datos crudos en información útil mediante limpieza, enriquecimiento, KPIs, tablas dinámicas, dashboard y comunicación ejecutiva.
+
+#### Objetivo
+
+Limpiar, organizar, enriquecer y analizar datos de ventas semanales para identificar qué departamentos fueron más eficientes en ventas por metro cuadrado y cuáles tuvieron mayor participación en las ventas totales del negocio.
+
+#### Herramientas utilizadas
+
+- Google Sheets
+- Limpieza de datos
+- BUSCARV / VLOOKUP
+- Tablas dinámicas
+- Campos calculados
+- KPIs de negocio
+- Validación de datos
+- Dashboard interactivo
+- Visualizaciones
+- Formato condicional
+- QA de datos
+- Método C-F-I: Context, Finding, Implication
+
+#### Datasets utilizados
+
+El proyecto trabajó con tres tablas principales:
+
+- `raw_ventas`: información transaccional de ventas semanales por tienda y departamento.
+- `raw_departamento`: catálogo de departamentos y nombres correspondientes.
+- `raw_tiendas`: información de tiendas, tipo de tienda y tamaño.
+
+A partir de estas tablas se construyó una hoja limpia y enriquecida llamada `clean_ventas`, donde se integró la información necesaria para realizar el análisis.
+
+#### Proceso realizado
+
+Primero se realizó la limpieza de los datos de ventas, normalizando columnas como fecha y ventas semanales. Se verificó que las fechas tuvieran el formato correcto y que las ventas estuvieran expresadas en formato monetario.
+
+Después se enriqueció la tabla principal mediante búsquedas con `BUSCARV`, agregando información adicional desde las tablas de tiendas y departamentos. Esto permitió incorporar variables como tipo de tienda, tamaño y nombre del departamento.
+
+Posteriormente, se construyeron tablas dinámicas para calcular los principales KPIs del análisis. Entre ellos se incluyeron las ventas por metro cuadrado, utilizadas para medir eficiencia, y la participación del departamento sobre el total de ventas, utilizada para medir la relevancia comercial de cada área dentro del negocio.
+
+También se creó un dashboard interactivo con un menú desplegable para seleccionar departamentos y visualizar automáticamente sus indicadores principales. El dashboard incluyó gráficos y valores dinámicos para facilitar la consulta de resultados por parte de usuarios directivos o stakeholders.
+
+Finalmente, se elaboró un resumen ejecutivo utilizando el método C-F-I: contexto, hallazgo e implicación. Este método permitió comunicar los resultados de forma clara, breve y orientada a la toma de decisiones.
+
+#### KPIs calculados
+
+- Ventas por metro cuadrado.
+- Participación del departamento sobre las ventas totales.
+- Ventas semanales por departamento.
+- Comparación de eficiencia entre departamentos.
+- Indicadores dinámicos por departamento dentro del dashboard.
+
+#### Análisis realizado
+
+El análisis permitió evaluar la eficiencia comercial de los departamentos considerando no solo el volumen total de ventas, sino también el tamaño de las tiendas. Esto ayudó a identificar departamentos que podían generar altos ingresos de forma eficiente en relación con el espacio disponible.
+
+También se analizó la participación de cada departamento dentro del total de ventas, permitiendo identificar cuáles aportaban más al negocio y cuáles podían estar por debajo de su potencial.
+
+El uso de tablas dinámicas, campos calculados y dashboard permitió resumir grandes volúmenes de información en indicadores claros, facilitando la interpretación de resultados para perfiles ejecutivos.
+
+#### Conclusiones principales
+
+Este proyecto demostró la importancia de construir KPIs adecuados para responder preguntas específicas de negocio. No basta con conocer las ventas totales; también es necesario analizar la eficiencia, la participación y el comportamiento de los departamentos desde distintas perspectivas.
+
+El dashboard permitió convertir el análisis en una herramienta práctica para la toma de decisiones, ya que los usuarios podían filtrar por departamento y consultar sus principales indicadores de manera dinámica.
+
+Además, el uso del método C-F-I reforzó la importancia de comunicar hallazgos de forma ejecutiva, conectando el contexto del análisis con los resultados encontrados y sus posibles implicaciones para el negocio.
+
+#### Habilidades desarrolladas
+
+- Limpieza y preparación de datos
+- Enriquecimiento de datos mediante tablas de referencia
+- Uso de BUSCARV / VLOOKUP
+- Construcción de KPIs
+- Creación de tablas dinámicas
+- Uso de campos calculados
+- Diseño de dashboards interactivos
+- Visualización de indicadores de negocio
+- Validación de calidad de datos
+- Comunicación ejecutiva de hallazgos
+---
+
 ## Contacto
 - **Linkedin:** [José Manuel Reyes Infante](https://www.linkedin.com/in/jose-manuel-reyes-infante-8a3a91331/)
 - **Github:** [JoseReyesI](https://github.com/JoseReyesI)
 - **Correo:** jose1496@live.com.mx 
-
-- LinkedIn: Pendiente de agregar
-- GitHub: https://github.com/JoseReyesI
-- Correo: Pendiente de agregar
