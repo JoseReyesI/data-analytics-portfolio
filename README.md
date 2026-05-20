@@ -88,6 +88,11 @@ También se reforzó la importancia de presentar los resultados de forma clara m
 - Creación de visualizaciones básicas
 - Comunicación de hallazgos en un informe ejecutivo
 
+#### Evidencia visual
+
+![Datos limpios del Proyecto 1](assets/proyecto1-datos-limpios.png)
+
+![Visualizaciones del Proyecto 1](assets/proyecto1-visualizaciones.png)
 ---
 
 ### Proyecto 2: Resumen Ejecutivo de Ventas Walmart
@@ -176,6 +181,12 @@ Además, el uso del método C-F-I reforzó la importancia de comunicar hallazgos
 - Validación de calidad de datos
 - Comunicación ejecutiva de hallazgos
 ---
+
+#### Evidencia visual
+
+![Dashboard del Proyecto 2](assets/proyecto2-dashboard.png)
+
+![Resumen ejecutivo del Proyecto 2](assets/proyecto2-resumen.png)
 
 ## Contacto
 - **Linkedin:** [José Manuel Reyes Infante](https://www.linkedin.com/in/jose-manuel-reyes-infante-8a3a91331/)
