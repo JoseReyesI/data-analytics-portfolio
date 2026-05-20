@@ -90,7 +90,7 @@ También se reforzó la importancia de presentar los resultados de forma clara m
 
 #### Evidencia visual
 
-![Datos limpios del Proyecto 1](assets/proyecto1-datos-limpios.png)
+![Datos limpios del Proyecto 1](assets/proyecto-datos-limpios.png)
 
 ![Visualizaciones del Proyecto 1](assets/proyecto1-visualizaciones.png)
 ---
